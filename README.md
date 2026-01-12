@@ -11,10 +11,8 @@ The core engine demonstrates how **Python** and **SQL** are integrated to automa
 ---
 
 ## Proven Performance Metrics (CV Highlights)
-This project provides the algorithmic proof for the following achievements:
-
 * **25% - 30% Efficiency Gain:** Automated complex data cleaning and ETL pipelines using Python/Pandas, drastically reducing manual processing time.
-* **99.9% Data Integrity:** Rigorous validation and error analysis across 30,000+ scientific data points in the domains of Chemistry and Biology.
+* **99.9% Data Integrity:** Rigorous validation across 30,000+ scientific data points in the domains of Chemistry and Biology.
 * **98% Model Accuracy:** Refined AI reasoning via RLHF, maintaining strict factual accuracy in technical prompts.
 
 ---
@@ -27,29 +25,31 @@ This project provides the algorithmic proof for the following achievements:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Analysis & Visualization
-* **Data Wrangling:** Pandas, NumPy, Scikit-learn.
-* **Visual Analytics:** Tableau, Matplotlib, Seaborn.
-* **Scientific QA:** Molecular Interaction Analysis, Chemical Data Validation.
+* **Data Wrangling:** Expert in ETL pipelines, data cleaning, and automated processing using Pandas and NumPy.
+* **Visual Analytics:** Tableau, Power BI, Matplotlib, Seaborn.
+
+### Specialized Tools & Methodologies
+* **Statistical Tools:** Advanced Excel (VBA/Macros), SPSS, SAS.
+* **Research Methods:** Hypothesis Testing, Regression Analysis, Error Analysis.
 * **AI Training:** RLHF (Reinforcement Learning from Human Feedback), Prompt Engineering, Data Annotation.
+* **Scientific QA:** Molecular Interaction Analysis, Chemical Data Validation.
 
 ---
 
 ## Repository Structure
 * `analysis_engine.py`: Integrated Python-SQL script for calculating efficiency and accuracy metrics.
 * `research_data_modeling.sql`: Advanced queries for scientific data filtering and integrity checks.
-* `visualizations/`: Generated charts demonstrating the 30% time-reduction impact.
 
 ---
 
 ## Connect with Me
-Feel free to reach out for collaborations or opportunities in **Data Science, Research Analysis, or AI Development**.
+Feel free to reach out for collaborations or opportunities in Data Science, Research Analysis, or AI Development.
 
 | Channel | Contact Details |
 | :--- | :--- |
 | **📧 Email** | [mdmaherashrafi@gmail.com](mailto:mdmaherashrafi@gmail.com) |
 | **📱 Phone** | [+8801873102736](tel:+8801873102736) |
 | **🔗 LinkedIn** | [MD MAHER ASHRAFI](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1) |
-| **🌐 Portfolio** | [GitHub Profile](https://github.com/mdmaherashrafi-dotcom) |
 
 ---
 *Developed with a commitment to scientific precision and data-driven excellence.*
