@@ -6,16 +6,14 @@
 ## Project Overview
 This repository serves as a technical portfolio to validate the key performance indicators (KPIs) and data-driven methodologies implemented during my tenure at **AxiomNova Research Centre** and as a **Research Analyst / AI Subject Matter Expert (SME)**. 
 
-The core engine demonstrates how **Python** and **SQL** are integrated to automate research workflows, ensuring high-precision data integrity for large-scale scientific datasets and RLHF (Reinforcement Learning from Human Feedback) models.
+The core engine demonstrates how **Python** and **SQL** are integrated to automate research workflows, ensuring high-precision data integrity for large-scale scientific datasets.
 
 ---
 
 ## Proven Performance Metrics (CV Highlights)
-This project provides the algorithmic proof for the following achievements:
-
-* **25% - 30% Efficiency Gain:** Automated complex data cleaning and ETL pipelines using Python/Pandas, drastically reducing manual processing time.
-* **99.9% Data Integrity:** Rigorous validation and error analysis across 30,000+ scientific data points in the domains of Chemistry and Biology.
-* **98% Model Accuracy:** Refined AI reasoning via RLHF, maintaining strict factual accuracy in technical prompts.
+* **25% - 30% Efficiency Gain:** Automated complex data cleaning and ETL pipelines using Python/Pandas.
+* **99.9% Data Integrity:** Rigorous validation across 30,000+ scientific data points in Chemistry and Biology.
+* **98% Model Accuracy:** Refined AI reasoning via RLHF, maintaining strict factual accuracy.
 
 ---
 
@@ -30,14 +28,7 @@ This project provides the algorithmic proof for the following achievements:
 * **Data Wrangling:** Pandas, NumPy, Scikit-learn.
 * **Visual Analytics:** Tableau, Matplotlib, Seaborn.
 * **Scientific QA:** Molecular Interaction Analysis, Chemical Data Validation.
-* **AI Training:** RLHF (Reinforcement Learning from Human Feedback), Prompt Engineering, Data Annotation.
-
----
-
-## Repository Structure
-* `analysis_engine.py`: Integrated Python-SQL script for calculating efficiency and accuracy metrics.
-* `research_data_modeling.sql`: Advanced queries for scientific data filtering and integrity checks.
-* `visualizations/`: Generated charts demonstrating the 30% time-reduction impact.
+* **AI Training:** RLHF (Reinforcement Learning from Human Feedback), Prompt Engineering.
 
 ---
 
@@ -49,7 +40,6 @@ Feel free to reach out for collaborations or opportunities in **Data Science, Re
 | **📧 Email** | [mdmaherashrafi@gmail.com](mailto:mdmaherashrafi@gmail.com) |
 | **📱 Phone** | [+8801873102736](tel:+8801873102736) |
 | **🔗 LinkedIn** | [MD MAHER ASHRAFI](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1) |
-| **🌐 Portfolio** | [GitHub Profile](https://github.com/mdmaherashrafi-dotcom) |
 
 ---
 *Developed with a commitment to scientific precision and data-driven excellence.*
