@@ -16,16 +16,16 @@ The core engine demonstrates how **Python** and **SQL** are integrated to automa
 * **98% Model Accuracy:** Refined AI reasoning via RLHF, maintaining strict factual accuracy in technical prompts.
 
 ---
----##  Performance & System Architecture
+
+## Performance & System Architecture
 
 To validate the efficiency gains and data integrity mentioned above, the system generates real-time analytics and follows a structured research auditing pipeline.
 
 | Research Efficiency & Integrity Metrics | System Architecture Workflow |
 | :---: | :---: |
-| <img src="1000064436.png" width="500" alt="Metrics Chart"> | <img src="1000064450.png" width="500" alt="Architecture Diagram"> |
+| <img src="1769745783969.png" width="500"> | <img src="1769749568359 (1).png" width="500"> |
 
 > **Note:** The system follows a modular architecture for seamless data flow and high scalability, ensuring 99.9% verified output and 25% time savings.
-
 
 
 
