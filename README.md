@@ -16,30 +16,17 @@ The core engine demonstrates how **Python** and **SQL** are integrated to automa
 * **98% Model Accuracy:** Refined AI reasoning via RLHF, maintaining strict factual accuracy in technical prompts.
 
 ---
----
+---##  Performance & System Architecture
 
-##  Performance Visualization
-To validate the efficiency gains and data integrity mentioned above, the system generates real-time analytics for various research domains.
+To validate the efficiency gains and data integrity mentioned above, the system generates real-time analytics and follows a structured research auditing pipeline.
 
-<p align="center">
-  <img src="path/to/your/performance_chart.png" alt="Efficiency and Integrity Charts" width="900">
-</p>
+| Research Efficiency & Integrity Metrics | System Architecture Workflow |
+| :---: | :---: |
+| <img src="1000064436.png" width="500" alt="Metrics Chart"> | <img src="1000064450.png" width="500" alt="Architecture Diagram"> |
 
-### Key Insights from Analytics:
-* **Efficiency Optimization:** A consistent **25% improvement** across all sectors, including AI RLHF Validation and Chemical Data Analysis.
-* **Data Integrity:** Maintained a near-perfect accuracy rate, peaking at **99.99% in Biological QA**.
-* **System Workflow:** The integrated Python-SQL engine ensures that raw data is cleaned, validated, and reported with minimal human intervention.
+> **Note:** The system follows a modular architecture for seamless data flow and high scalability, ensuring 99.9% verified output and 25% time savings.
 
----
 
-##  System Architecture & Workflow
-The following diagram illustrates the high-precision research auditing pipeline:
-
-<p align="center">
-  <img src="path/to/your/architecture_diagram.png" alt="System Architecture" width="600">
-</p>
-
-> **Note:** The architecture follows a modular approach for seamless data flow and high scalability, similar to professional NLP pipelines.
 
 
 ## Technical Skill Set
