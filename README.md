@@ -54,6 +54,15 @@ To validate the efficiency gains and data integrity mentioned above, the system 
 
 ---
 
+## Installation & Usage Guide
+
+To replicate the performance analysis and run the SQL-Python engine locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/mdmaherashrafi-dotcom/Research-Performance-Metrics.git](https://github.com/mdmaherashrafi-dotcom/Research-Performance-Metrics.git)
+
+
 ## Connect with Me
 Feel free to reach out for collaborations or opportunities in Data Science, Research Analysis, or AI Development.
 
