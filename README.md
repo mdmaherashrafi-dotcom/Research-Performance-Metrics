@@ -63,9 +63,7 @@ To replicate the performance analysis and run the SQL-Python engine locally:
    git clone [https://github.com/mdmaherashrafi-dotcom/Research-Performance-Metrics.git](https://github.com/mdmaherashrafi-dotcom/Research-Performance-Metrics.git)
 
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/mdmaherashrafi-dotcom/Research-Performance-Metrics.git](https://github.com/mdmaherashrafi-dotcom/Research-Performance-Metrics.git)
+h-Performance-Metrics.git)
 
 ## Connect with Me
 Feel free to reach out for collaborations or opportunities in Data Science, Research Analysis, or AI Development.
